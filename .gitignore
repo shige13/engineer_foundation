@@ -1,0 +1,12 @@
+# __pycache__ ディレクトリ全体を無視
+__pycache__/
+
+# Python のコンパイル済みファイルを無視
+*.pyc
+*.pyo
+*.pyd
+
+# その他のキャッシュ関連ファイルを無視
+*.cache
+*.log
+*.egg-info/
